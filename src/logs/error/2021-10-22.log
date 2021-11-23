@@ -1,0 +1,110 @@
+2021-10-22 00:34:10 error: [POST] /login >> StatusCode:: 409, Message:: the email address foo@foo.com was not found
+2021-10-22 00:35:32 error: [POST] /login >> StatusCode:: 409, Message:: the email address f@lol.com was not found
+2021-10-22 00:35:51 error: [POST] /login >> StatusCode:: 409, Message:: the email address f@lol.com was not found
+2021-10-22 00:36:22 error: [POST] /login >> StatusCode:: 409, Message:: the email address foo@l.com was not found
+2021-10-22 00:37:16 error: [POST] /login >> StatusCode:: 409, Message:: the email address f@lol.com was not found
+2021-10-22 00:38:34 error: [POST] /login >> StatusCode:: 409, Message:: the email address f@lo.com was not found
+2021-10-22 00:38:47 error: [POST] /login >> StatusCode:: 409, Message:: the email address r.k.scott@lol.com was not found
+2021-10-22 00:39:16 error: [POST] /login >> StatusCode:: 409, Message:: the email address d@lol.com was not found
+2021-10-22 00:40:04 error: [POST] /login >> StatusCode:: 409, Message:: the email address fo@lol.com was not found
+2021-10-22 00:41:44 error: [POST] /login >> StatusCode:: 409, Message:: the email address f@lol.com was not found
+2021-10-22 00:42:29 error: [POST] /login >> StatusCode:: 409, Message:: the email address fo@lol.com was not found
+2021-10-22 00:42:44 error: [POST] /login >> StatusCode:: 409, Message:: Your password does not match
+2021-10-22 00:45:06 error: [POST] /login >> StatusCode:: 409, Message:: the email address fo@lo.com was not found
+2021-10-22 00:45:48 error: [POST] /login >> StatusCode:: 409, Message:: the email address foo@lol.com was not found
+2021-10-22 00:46:41 error: [POST] /login >> StatusCode:: 409, Message:: the email address f@lo.com was not found
+2021-10-22 00:54:56 error: [POST] /login >> StatusCode:: 409, Message:: the email address f@lol.com was not found
+2021-10-22 00:55:20 error: [POST] /login >> StatusCode:: 409, Message:: the email address f@lol.com was not found
+2021-10-22 00:56:21 error: [POST] /login >> StatusCode:: 409, Message:: the email address f@lol.com was not found
+2021-10-22 02:51:44 error: [POST] /login >> StatusCode:: 409, Message:: the email address s@lol.com was not found
+2021-10-22 03:02:00 error: [POST] /login >> StatusCode:: 409, Message:: the email address fo@fo.com was not found
+2021-10-22 03:25:12 error: [POST] /login >> StatusCode:: 409, Message:: the email address do@lol.com was not found
+2021-10-22 03:25:49 error: [POST] /login >> StatusCode:: 409, Message:: the email address f@lol.com was not found
+2021-10-22 03:27:57 error: [POST] /login >> StatusCode:: 409, Message:: the email address r.k.scott@oulook.com was not found
+2021-10-22 03:29:35 error: [POST] /login >> StatusCode:: 409, Message:: the email address foo@foo.com was not found
+2021-10-22 13:32:03 error: [POST] /login >> StatusCode:: 409, Message:: the email address r.k.sc@lol.com was not found
+2021-10-22 13:40:21 error: [POST] /login >> StatusCode:: 409, Message:: the email address f@lo.com was not found
+2021-10-22 13:44:24 error: [POST] /login >> StatusCode:: 409, Message:: the email address d@lol.com was not found
+2021-10-22 14:01:23 error: [POST] /login >> StatusCode:: 409, Message:: the email address sd@lol.com was not found
+2021-10-22 14:01:53 error: [POST] /login >> StatusCode:: 409, Message:: the email address fo@fo.com was not found
+2021-10-22 14:03:00 error: [POST] /login >> StatusCode:: 409, Message:: the email address d@lol.com was not found
+2021-10-22 14:04:10 error: [POST] /login >> StatusCode:: 409, Message:: the email address fo@lol.com was not found
+2021-10-22 14:05:15 error: [POST] /login >> StatusCode:: 409, Message:: the email address d@l.com was not found
+2021-10-22 14:05:49 error: [POST] /login >> StatusCode:: 409, Message:: Your password does not match
+2021-10-22 14:07:08 error: [POST] /login >> StatusCode:: 409, Message:: the email address f@f.com was not found
+2021-10-22 14:07:35 error: [POST] /login >> StatusCode:: 409, Message:: the email address d@l.com was not found
+2021-10-22 14:08:41 error: [POST] /login >> StatusCode:: 409, Message:: the email address fo@do.com was not found
+2021-10-22 14:12:43 error: [POST] /login >> StatusCode:: 409, Message:: the email address d@d.com was not found
+2021-10-22 14:57:18 error: [POST] /login >> StatusCode:: 409, Message:: the email address d@lol.com was not found
+2021-10-22 15:00:16 error: [POST] /login >> StatusCode:: 409, Message:: the email address s@lo.com was not found
+2021-10-22 15:01:06 error: [POST] /login >> StatusCode:: 409, Message:: the email address f@lol.com was not found
+2021-10-22 15:37:33 error: [POST] /login >> StatusCode:: 409, Message:: the email address f@lol.com was not found
+2021-10-22 17:32:43 error: [POST] /login >> StatusCode:: 409, Message:: the email address f@lol.com was not found
+2021-10-22 17:34:12 error: [POST] /login >> StatusCode:: 409, Message:: the email address c@lol.com was not found
+2021-10-22 17:35:15 error: [POST] /login >> StatusCode:: 409, Message:: the email address f@lol.com was not found
+2021-10-22 17:35:34 error: [POST] /login >> StatusCode:: 409, Message:: the email address f@lol.com was not found
+2021-10-22 17:35:55 error: [POST] /login >> StatusCode:: 409, Message:: the email address f@lol.com was not found
+2021-10-22 17:37:13 error: [POST] /login >> StatusCode:: 409, Message:: the email address d@lol.com was not found
+2021-10-22 17:38:01 error: [POST] /login >> StatusCode:: 409, Message:: the email address q@lol.com was not found
+2021-10-22 17:39:31 error: [POST] /login >> StatusCode:: 409, Message:: the email address d@lol.com was not found
+2021-10-22 17:42:05 error: [POST] /login >> StatusCode:: 409, Message:: the email address foo@lol.com was not found
+2021-10-22 17:44:42 error: [POST] /login >> StatusCode:: 409, Message:: the email address fo@foo.com was not found
+2021-10-22 17:46:13 error: [POST] /login >> StatusCode:: 409, Message:: the email address fo@l.com was not found
+2021-10-22 17:46:49 error: [POST] /login >> StatusCode:: 409, Message:: the email address fo@lo.com was not found
+2021-10-22 17:50:18 error: [POST] /login >> StatusCode:: 409, Message:: the email address d@lol.com was not found
+2021-10-22 17:52:29 error: [POST] /login >> StatusCode:: 409, Message:: the email address f@lol.com was not found
+2021-10-22 17:53:01 error: [POST] /login >> StatusCode:: 409, Message:: the email address d@lol.com was not found
+2021-10-22 17:54:52 error: [POST] /login >> StatusCode:: 409, Message:: the email address d@lol.com was not found
+2021-10-22 17:55:35 error: [POST] /login >> StatusCode:: 409, Message:: the email address d@lol.xom was not found
+2021-10-22 17:55:57 error: [POST] /login >> StatusCode:: 409, Message:: the email address a@lol.xom was not found
+2021-10-22 17:57:46 error: [POST] /login >> StatusCode:: 409, Message:: the email address do@lol.com was not found
+2021-10-22 18:02:49 error: [POST] /login >> StatusCode:: 409, Message:: the email address f@lol.com was not found
+2021-10-22 18:03:33 error: [POST] /login >> StatusCode:: 409, Message:: the email address sd@l.com was not found
+2021-10-22 18:04:35 error: [POST] /login >> StatusCode:: 409, Message:: the email address f@lol.com was not found
+2021-10-22 18:05:34 error: [POST] /login >> StatusCode:: 409, Message:: the email address fo@lol.com was not found
+2021-10-22 18:06:34 error: [POST] /login >> StatusCode:: 409, Message:: the email address f@lol.com was not found
+2021-10-22 18:07:09 error: [POST] /login >> StatusCode:: 409, Message:: the email address f@lol.com was not found
+2021-10-22 18:07:52 error: [POST] /login >> StatusCode:: 409, Message:: the email address d@lol.com was not found
+2021-10-22 18:08:25 error: [POST] /login >> StatusCode:: 409, Message:: the email address fo@lol.com was not found
+2021-10-22 18:10:10 error: [POST] /login >> StatusCode:: 409, Message:: the email address f@lol.com was not found
+2021-10-22 18:10:55 error: [POST] /login >> StatusCode:: 409, Message:: the email address d2@lol.com was not found
+2021-10-22 18:11:21 error: [POST] /login >> StatusCode:: 409, Message:: the email address f@lol.com was not found
+2021-10-22 18:13:36 error: [POST] /login >> StatusCode:: 409, Message:: the email address fo@lol.com was not found
+2021-10-22 18:14:27 error: [POST] /login >> StatusCode:: 409, Message:: the email address d@lol.com was not found
+2021-10-22 18:17:05 error: [POST] /login >> StatusCode:: 409, Message:: the email address d@lol.com was not found
+2021-10-22 18:18:46 error: [POST] /login >> StatusCode:: 409, Message:: the email address fo@lol.com was not found
+2021-10-22 18:20:15 error: [POST] /login >> StatusCode:: 409, Message:: the email address df@lol.com was not found
+2021-10-22 18:21:02 error: [POST] /login >> StatusCode:: 409, Message:: the email address fo@lol.com was not found
+2021-10-22 18:23:19 error: [POST] /login >> StatusCode:: 409, Message:: the email address fpp@lol.com was not found
+2021-10-22 18:25:32 error: [POST] /login >> StatusCode:: 409, Message:: the email address d@lol.com was not found
+2021-10-22 18:28:26 error: [POST] /login >> StatusCode:: 409, Message:: the email address d@lol.com was not found
+2021-10-22 18:29:00 error: [POST] /login >> StatusCode:: 409, Message:: the email address d@lol.com was not found
+2021-10-22 18:29:23 error: [POST] /login >> StatusCode:: 409, Message:: the email address f@lol.com was not found
+2021-10-22 21:46:23 error: [POST] /login >> StatusCode:: 409, Message:: the email address fo@foo.com was not found
+2021-10-22 22:34:01 error: [POST] /login >> StatusCode:: 409, Message:: the email address r@lol.com was not found
+2021-10-22 21:43:14 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-22 23:16:25 error: [POST] /login >> StatusCode:: 409, Message:: the email address f.k.scott@outlook.com was not found
+2021-10-22 23:17:57 error: [POST] /login >> StatusCode:: 409, Message:: Your password does not match
+2021-10-22 23:03:09 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)

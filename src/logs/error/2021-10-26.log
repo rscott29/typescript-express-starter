@@ -1,0 +1,2317 @@
+2021-10-26 00:00:20 error: [POST] /login >> StatusCode:: 409, Message:: the email address sd@lo.com was not found
+2021-10-26 18:07:17 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 18:15:39 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 18:16:07 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 19:17:34 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m57[0m:[93m3[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.
+
+[7m57[0m   }
+[7m  [0m [91m  ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m57[0m:[93m3[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.
+
+[7m57[0m   }
+[7m  [0m [91m  ~[0m
+
+    at createTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:748:19)
+    at /Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2021-10-26 18:17:38 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(57,3): error TS1003: Identifier expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(57,3): error TS1003: Identifier expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-10-26 18:17:55 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 18:19:24 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 18:19:52 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 19:19:56 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m56[0m:[93m82[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m56[0m     const refreshToken = jwt.sign(user, config.refreshTokenSecret, { expiresIn:  });
+[7m  [0m [91m                                                                                 ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m56[0m:[93m82[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m56[0m     const refreshToken = jwt.sign(user, config.refreshTokenSecret, { expiresIn:  });
+[7m  [0m [91m                                                                                 ~[0m
+
+    at createTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:748:19)
+    at /Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2021-10-26 18:20:05 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(56,82): error TS1109: Expression expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(56,82): error TS1109: Expression expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-10-26 18:20:49 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 19:21:13 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m56[0m:[93m53[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m56[0m     const refreshToken = jwt.sign(dataStoredInTOken se, { expiresIn: 86400 });
+[7m  [0m [91m                                                    ~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m56[0m:[93m53[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m56[0m     const refreshToken = jwt.sign(dataStoredInTOken se, { expiresIn: 86400 });
+[7m  [0m [91m                                                    ~~[0m
+
+    at createTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:748:19)
+    at /Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2021-10-26 19:21:16 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m56[0m:[93m53[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m56[0m     const refreshToken = jwt.sign(dataStoredInTOken secer, { expiresIn: 86400 });
+[7m  [0m [91m                                                    ~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m56[0m:[93m53[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m56[0m     const refreshToken = jwt.sign(dataStoredInTOken secer, { expiresIn: 86400 });
+[7m  [0m [91m                                                    ~~~~~[0m
+
+    at createTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:748:19)
+    at /Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2021-10-26 18:21:20 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(56,53): error TS1005: ',' expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(56,53): error TS1005: ',' expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-10-26 18:21:47 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 18:22:11 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 18:22:26 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 18:26:33 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 19:27:58 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m51[0m:[93m53[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.
+
+[7m51[0m     const refreshToken = jwt.sign(dataStoredInToken., secretKey, { expiresIn: 86400 });
+[7m  [0m [91m                                                    ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m51[0m:[93m53[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.
+
+[7m51[0m     const refreshToken = jwt.sign(dataStoredInToken., secretKey, { expiresIn: 86400 });
+[7m  [0m [91m                                                    ~[0m
+
+    at createTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:748:19)
+    at /Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2021-10-26 18:28:12 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 19:29:07 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m53[0m:[93m83[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m53[0m     return { expiresIn, token: jwt.sign(dataStoredInToken, secretKey, refreshToken: refreshToken, { expiresIn }) };
+[7m  [0m [91m                                                                                  ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m53[0m:[93m83[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m53[0m     return { expiresIn, token: jwt.sign(dataStoredInToken, secretKey, refreshToken: refreshToken, { expiresIn }) };
+[7m  [0m [91m                                                                                  ~[0m
+
+    at createTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:748:19)
+    at /Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2021-10-26 18:29:11 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(53,83): error TS1005: ',' expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(53,83): error TS1005: ',' expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-10-26 19:29:31 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m53[0m:[93m39[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m53[0m     return { expiresIn, refreshToken: , token: jwt.sign(dataStoredInToken, secretKey, { expiresIn }) };
+[7m  [0m [91m                                      ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m53[0m:[93m39[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m53[0m     return { expiresIn, refreshToken: , token: jwt.sign(dataStoredInToken, secretKey, { expiresIn }) };
+[7m  [0m [91m                                      ~[0m
+
+    at createTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:748:19)
+    at /Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2021-10-26 18:29:58 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 19:33:28 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m57[0m:[93m62[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m57[0m     return `Authorization=${tokenData.token}; RefreshToken=${}HttpOnly; Max-Age=${tokenData.expiresIn};Secure=true`;
+[7m  [0m [91m                                                             ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m57[0m:[93m62[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m57[0m     return `Authorization=${tokenData.token}; RefreshToken=${}HttpOnly; Max-Age=${tokenData.expiresIn};Secure=true`;
+[7m  [0m [91m                                                             ~[0m
+
+    at createTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:748:19)
+    at /Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2021-10-26 18:33:31 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(57,62): error TS1109: Expression expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(57,62): error TS1109: Expression expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-10-26 18:33:45 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 18:34:05 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 18:36:57 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 18:38:30 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(60,83): error TS1003: Identifier expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(60,83): error TS1003: Identifier expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at /Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2021-10-26 18:39:08 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(60,73): error TS1109: Expression expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(60,73): error TS1109: Expression expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+arter/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2021-10-26 19:39:58 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m36[0m:[93m25[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m36[0m     return { cookie, re findUser };
+[7m  [0m [91m                        ~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m36[0m:[93m25[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m36[0m     return { cookie, re findUser };
+[7m  [0m [91m                        ~~~~~~~~[0m
+
+    at createTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:748:19)
+    at /Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2021-10-26 18:40:04 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(36,25): error TS1005: ',' expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(36,25): error TS1005: ',' expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-10-26 18:40:19 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 18:40:43 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 18:42:32 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 18:43:29 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 18:44:24 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 19:44:49 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m58[0m:[93m5[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m58[0m     return { expiresIn, token: jwt.sign(dataStoredInToken, secretKey, { expiresIn }) };
+[7m  [0m [91m    ~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m58[0m:[93m5[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m58[0m     return { expiresIn, token: jwt.sign(dataStoredInToken, secretKey, { expiresIn }) };
+[7m  [0m [91m    ~~~~~~[0m
+
+    at createTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:748:19)
+    at /Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2021-10-26 19:45:29 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m58[0m:[93m51[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m58[0m     return { expiresIn, refreshToken: refreshToken: jwt.sign(dataStoredInToken, secretKey, { expiresIn }) };
+[7m  [0m [91m                                                  ~[0m
+[96msrc/services/auth.service.ts[0m:[93m58[0m:[93m56[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m58[0m     return { expiresIn, refreshToken: refreshToken: jwt.sign(dataStoredInToken, secretKey, { expiresIn }) };
+[7m  [0m [91m                                                       ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m58[0m:[93m51[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m58[0m     return { expiresIn, refreshToken: refreshToken: jwt.sign(dataStoredInToken, secretKey, { expiresIn }) };
+[7m  [0m [91m                                                  ~[0m
+[96msrc/services/auth.service.ts[0m:[93m58[0m:[93m56[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m58[0m     return { expiresIn, refreshToken: refreshToken: jwt.sign(dataStoredInToken, secretKey, { expiresIn }) };
+[7m  [0m [91m                                                       ~[0m
+
+    at createTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:748:19)
+    at /Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2021-10-26 18:45:33 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(58,51): error TS1005: ',' expected.
+src/services/auth.service.ts(58,56): error TS1005: ',' expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(58,51): error TS1005: ',' expected.
+src/services/auth.service.ts(58,56): error TS1005: ',' expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-10-26 18:45:53 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 19:46:27 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m57[0m:[93m71[0m - [91merror[0m[90m TS1005: [0m':' expected.
+
+[7m57[0m     const refreshToken = jwt.sign(dataStoredInToken, secretKey, {86400});
+[7m  [0m [91m                                                                      ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m57[0m:[93m71[0m - [91merror[0m[90m TS1005: [0m':' expected.
+
+[7m57[0m     const refreshToken = jwt.sign(dataStoredInToken, secretKey, {86400});
+[7m  [0m [91m                                                                      ~[0m
+
+    at createTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:748:19)
+    at /Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2021-10-26 18:46:31 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(57,71): error TS1005: ':' expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(57,71): error TS1005: ':' expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-10-26 19:47:23 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m57[0m:[93m73[0m - [91merror[0m[90m TS1005: [0m':' expected.
+
+[7m57[0m     const refreshToken = jwt.sign(dataStoredInToken, secretKey, { 86400 });
+[7m  [0m [91m                                                                        ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m57[0m:[93m73[0m - [91merror[0m[90m TS1005: [0m':' expected.
+
+[7m57[0m     const refreshToken = jwt.sign(dataStoredInToken, secretKey, { 86400 });
+[7m  [0m [91m                                                                        ~[0m
+
+    at createTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:748:19)
+    at /Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2021-10-26 19:47:32 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m58[0m:[93m73[0m - [91merror[0m[90m TS1005: [0m':' expected.
+
+[7m58[0m     const refreshToken = jwt.sign(dataStoredInToken, secretKey, { 86400 });
+[7m  [0m [91m                                                                        ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m58[0m:[93m73[0m - [91merror[0m[90m TS1005: [0m':' expected.
+
+[7m58[0m     const refreshToken = jwt.sign(dataStoredInToken, secretKey, { 86400 });
+[7m  [0m [91m                                                                        ~[0m
+
+    at createTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:748:19)
+    at /Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2021-10-26 19:47:42 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m58[0m:[93m73[0m - [91merror[0m[90m TS1005: [0m':' expected.
+
+[7m58[0m     const refreshToken = jwt.sign(dataStoredInToken, secretKey, { 86400 });
+[7m  [0m [91m                                                                        ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m58[0m:[93m73[0m - [91merror[0m[90m TS1005: [0m':' expected.
+
+[7m58[0m     const refreshToken = jwt.sign(dataStoredInToken, secretKey, { 86400 });
+[7m  [0m [91m                                                                        ~[0m
+
+    at createTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:748:19)
+    at /Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2021-10-26 18:47:50 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(58,73): error TS1005: ':' expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(58,73): error TS1005: ':' expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-10-26 18:48:27 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 18:48:56 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 18:50:02 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 18:50:35 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 19:39:49 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 19:43:15 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 20:44:58 error: uncaughtException: Missing initializer in const declaration
+/Users/rich/typescript-express-starter/src/services/auth.service.ts:52
+        const reg;
+              ^^^
+
+SyntaxError: Missing initializer in const declaration
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+2021-10-26 19:45:01 error: uncaughtException: Missing initializer in const declaration
+/app/src/services/auth.service.ts:52
+        const reg;
+              ^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/app/src/controllers/auth.controller.ts:5:1)
+2021-10-26 20:45:10 error: uncaughtException: Missing initializer in const declaration
+/Users/rich/typescript-express-starter/src/services/auth.service.ts:52
+        const reg;
+              ^^^
+
+SyntaxError: Missing initializer in const declaration
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+2021-10-26 19:45:15 error: uncaughtException: Missing initializer in const declaration
+/app/src/services/auth.service.ts:52
+        const reg;
+              ^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/app/src/controllers/auth.controller.ts:5:1)
+2021-10-26 20:45:18 error: uncaughtException: Missing initializer in const declaration
+/Users/rich/typescript-express-starter/src/services/auth.service.ts:52
+        const refreshSecretKey;
+              ^^^^^^^^^^^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+2021-10-26 19:45:35 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 19:45:44 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 19:46:15 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 20:46:19 error: uncaughtException: Missing initializer in const declaration
+/Users/rich/typescript-express-starter/src/services/auth.service.ts:54
+        const refresh;
+              ^^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+2021-10-26 20:46:22 error: uncaughtException: Missing initializer in const declaration
+/Users/rich/typescript-express-starter/src/services/auth.service.ts:54
+        const refreshL;
+              ^^^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+2021-10-26 19:47:09 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 19:47:34 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 19:48:07 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 19:48:39 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 19:50:41 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 19:51:12 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 20:51:17 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m65[0m:[93m12[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m65[0m       token: jwt.sign(dataStoredInToken, secretKey, { expiresIn }),
+[7m  [0m [91m           ~[0m
+[96msrc/services/auth.service.ts[0m:[93m66[0m:[93m5[0m - [91merror[0m[90m TS1135: [0mArgument expression expected.
+
+[7m66[0m     };
+[7m  [0m [91m    ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/auth.service.ts[0m:[93m65[0m:[93m12[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m65[0m       token: jwt.sign(dataStoredInToken, secretKey, { expiresIn }),
+[7m  [0m [91m           ~[0m
+[96msrc/services/auth.service.ts[0m:[93m66[0m:[93m5[0m - [91merror[0m[90m TS1135: [0mArgument expression expected.
+
+[7m66[0m     };
+[7m  [0m [91m    ~[0m
+
+    at createTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:748:19)
+    at /Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2021-10-26 19:51:20 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(65,12): error TS1005: ',' expected.
+src/services/auth.service.ts(66,5): error TS1135: Argument expression expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(65,12): error TS1005: ',' expected.
+src/services/auth.service.ts(66,5): error TS1135: Argument expression expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-10-26 19:51:38 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 19:52:15 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 19:52:32 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 19:52:46 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 19:53:44 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 20:53:53 error: [POST] /login >> StatusCode:: 500, Message:: "refreshToLive" is not allowed in "options"
+2021-10-26 20:54:15 error: [POST] /login >> StatusCode:: 500, Message:: "refreshToLive" is not allowed in "options"
+2021-10-26 19:54:45 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 19:58:29 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 20:03:34 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(28,81): error TS1005: ',' expected.
+src/controllers/auth.controller.ts(28,102): error TS1005: ':' expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(28,81): error TS1005: ',' expected.
+src/controllers/auth.controller.ts(28,102): error TS1005: ':' expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+0m [91m                                                                                ~[0m
+[96msrc/controllers/auth.controller.ts[0m:[93m28[0m:[93m102[0m - [91merror[0m[90m TS1005: [0m':' expected.
+
+[7m28[0m       res.status(200).json({ user: findUser.email, expireDate: findUser. message: 'Login Successful!', authState: true });
+[7m  [0m [91m                                                                                                     ~[0m
+
+    at createTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:748:19)
+    at /Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2021-10-26 20:04:30 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(28,68): error TS1003: Identifier expected.
+src/controllers/auth.controller.ts(28,89): error TS1005: ':' expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(28,68): error TS1003: Identifier expected.
+src/controllers/auth.controller.ts(28,89): error TS1005: ':' expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+           ~[0m
+[96msrc/controllers/auth.controller.ts[0m:[93m28[0m:[93m89[0m - [91merror[0m[90m TS1005: [0m':' expected.
+
+[7m28[0m       res.status(200).json({ user: findUser.email, expireDate: res.: 'Login Successful!', authState: true });
+[7m  [0m [91m                                                                                        ~[0m
+
+    at createTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:748:19)
+    at /Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2021-10-26 21:04:41 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/auth.controller.ts[0m:[93m28[0m:[93m71[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m28[0m       res.status(200).json({ user: findUser.email, expireDate: cookike: 'Login Successful!', authState: true });
+[7m  [0m [91m                                                                      ~[0m
+[96msrc/controllers/auth.controller.ts[0m:[93m28[0m:[93m92[0m - [91merror[0m[90m TS1005: [0m':' expected.
+
+[7m28[0m       res.status(200).json({ user: findUser.email, expireDate: cookike: 'Login Successful!', authState: true });
+[7m  [0m [91m                                                                                           ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/auth.controller.ts[0m:[93m28[0m:[93m71[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m28[0m       res.status(200).json({ user: findUser.email, expireDate: cookike: 'Login Successful!', authState: true });
+[7m  [0m [91m                                                                      ~[0m
+[96msrc/controllers/auth.controller.ts[0m:[93m28[0m:[93m92[0m - [91merror[0m[90m TS1005: [0m':' expected.
+
+[7m28[0m       res.status(200).json({ user: findUser.email, expireDate: cookike: 'Login Successful!', authState: true });
+[7m  [0m [91m                                                                                           ~[0m
+
+    at createTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:748:19)
+    at /Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2021-10-26 20:04:47 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(28,70): error TS1005: ',' expected.
+src/controllers/auth.controller.ts(28,91): error TS1005: ':' expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(28,70): error TS1005: ',' expected.
+src/controllers/auth.controller.ts(28,91): error TS1005: ':' expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+                       ~[0m
+[96msrc/controllers/auth.controller.ts[0m:[93m28[0m:[93m91[0m - [91merror[0m[90m TS1005: [0m':' expected.
+
+[7m28[0m       res.status(200).json({ user: findUser.email, expireDate: cookie: 'Login Successful!', authState: true });
+[7m  [0m [91m                                                                                          ~[0m
+
+    at createTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:748:19)
+    at /Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2021-10-26 20:05:47 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 20:12:14 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(26,10): error TS1005: ',' expected.
+src/controllers/auth.controller.ts(26,20): error TS1005: ',' expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(26,10): error TS1005: ',' expected.
+src/controllers/auth.controller.ts(26,20): error TS1005: ',' expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-10-26 20:12:52 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 20:15:07 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 20:16:02 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(25,52): error TS1003: Identifier expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(25,52): error TS1003: Identifier expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-10-26 20:17:05 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(26,10): error TS1005: ',' expected.
+src/controllers/auth.controller.ts(26,20): error TS1005: ',' expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(26,10): error TS1005: ',' expected.
+src/controllers/auth.controller.ts(26,20): error TS1005: ',' expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-10-26 20:17:18 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(25,38): error TS1005: ',' expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(25,38): error TS1005: ',' expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-10-26 20:17:38 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(25,42): error TS1005: ',' expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(25,42): error TS1005: ',' expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-10-26 20:18:19 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(25,35): error TS1003: Identifier expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(25,35): error TS1003: Identifier expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-10-26 20:18:30 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 20:20:36 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(24,53): error TS1005: ',' expected.
+src/controllers/auth.controller.ts(24,60): error TS1005: ',' expected.
+src/controllers/auth.controller.ts(24,66): error TS1005: ',' expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(24,53): error TS1005: ',' expected.
+src/controllers/auth.controller.ts(24,60): error TS1005: ',' expected.
+src/controllers/auth.controller.ts(24,66): error TS1005: ',' expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-10-26 20:21:26 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(24,53): error TS1005: ',' expected.
+src/controllers/auth.controller.ts(24,60): error TS1005: ',' expected.
+src/controllers/auth.controller.ts(24,66): error TS1005: ',' expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(24,53): error TS1005: ',' expected.
+src/controllers/auth.controller.ts(24,60): error TS1005: ',' expected.
+src/controllers/auth.controller.ts(24,66): error TS1005: ',' expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-10-26 21:21:29 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/auth.controller.ts[0m:[93m24[0m:[93m53[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m24[0m       const { cookie, findUser } = await this.auth  Service.login(userData);
+[7m  [0m [91m                                                    ~~~~~~~[0m
+[96msrc/controllers/auth.controller.ts[0m:[93m24[0m:[93m60[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m24[0m       const { cookie, findUser } = await this.auth  Service.login(userData);
+[7m  [0m [91m                                                           ~[0m
+[96msrc/controllers/auth.controller.ts[0m:[93m24[0m:[93m66[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m24[0m       const { cookie, findUser } = await this.auth  Service.login(userData);
+[7m  [0m [91m                                                                 ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/auth.controller.ts[0m:[93m24[0m:[93m53[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m24[0m       const { cookie, findUser } = await this.auth  Service.login(userData);
+[7m  [0m [91m                                                    ~~~~~~~[0m
+[96msrc/controllers/auth.controller.ts[0m:[93m24[0m:[93m60[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m24[0m       const { cookie, findUser } = await this.auth  Service.login(userData);
+[7m  [0m [91m                                                           ~[0m
+[96msrc/controllers/auth.controller.ts[0m:[93m24[0m:[93m66[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m24[0m       const { cookie, findUser } = await this.auth  Service.login(userData);
+[7m  [0m [91m                                                                 ~[0m
+
+    at createTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:748:19)
+    at /Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2021-10-26 20:22:10 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 20:23:12 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 20:24:08 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 20:26:19 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 20:27:52 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:11:43 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:13:05 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:14:09 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(27,10): error TS1005: ',' expected.
+src/controllers/auth.controller.ts(27,20): error TS1005: ',' expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(27,10): error TS1005: ',' expected.
+src/controllers/auth.controller.ts(27,20): error TS1005: ',' expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-10-26 22:14:41 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:17:05 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:19:27 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:28:46 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:29:20 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:29:45 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:30:07 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 23:30:12 error: [POST] /login >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'exp')
+2021-10-26 22:30:36 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 23:30:56 error: [POST] /login >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'exp')
+2021-10-26 22:35:24 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:36:35 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:37:30 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:40:34 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:41:06 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:41:30 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(28,20): error TS1003: Identifier expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(28,20): error TS1003: Identifier expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-10-26 22:42:52 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(28,20): error TS1003: Identifier expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(28,20): error TS1003: Identifier expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-10-26 22:43:18 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(29,23): error TS1003: Identifier expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(29,23): error TS1003: Identifier expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-10-26 22:43:55 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:44:09 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:44:23 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:47:03 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:48:50 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:49:01 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:49:15 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:50:04 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:50:35 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:53:32 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(31,10): error TS1005: ',' expected.
+src/controllers/auth.controller.ts(31,20): error TS1005: ',' expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(31,10): error TS1005: ',' expected.
+src/controllers/auth.controller.ts(31,20): error TS1005: ',' expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-10-26 22:53:51 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:55:36 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:55:56 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:57:18 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:57:33 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(30,44): error TS1002: Unterminated string literal.
+src/controllers/auth.controller.ts(31,7): error TS1005: ']' expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/auth.controller.ts(30,44): error TS1002: Unterminated string literal.
+src/controllers/auth.controller.ts(31,7): error TS1005: ']' expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-10-26 22:57:47 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:58:31 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 22:59:01 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 23:07:15 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 23:35:47 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 23:36:01 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 23:39:36 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 23:39:51 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 23:40:11 error: uncaughtException: Missing initializer in const declaration
+/app/src/services/auth.service.ts:53
+        const to;
+              ^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/app/src/controllers/auth.controller.ts:5:1)
+2021-10-26 23:40:32 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(56,28): error TS1109: Expression expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(56,28): error TS1109: Expression expected.
+
+    at createTSError (/app/node_modules/ts-node/src/index.ts:744:12)
+    at reportTSError (/app/node_modules/ts-node/src/index.ts:748:19)
+    at /app/node_modules/ts-node/src/index.ts:1210:34
+    at Object.compile (/app/node_modules/ts-node/src/index.ts:1237:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1364:30)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2021-10-26 23:40:54 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 23:41:09 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 23:41:42 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 23:48:46 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 23:49:14 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 23:49:50 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 23:50:38 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 23:51:44 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-26 23:54:55 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)

@@ -1,0 +1,94 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/rich/typescript-express-starter/src/logs/debug/.9b5dad75b5d87865384f5f2691d4fdecbf8f303e-audit.json",
+    "files": [
+        {
+            "date": 1634230673663,
+            "name": "/Users/rich/typescript-express-starter/src/logs/debug/2021-10-14.log",
+            "hash": "a501e8fb70c41666f8ee3b1f7e77986f"
+        },
+        {
+            "date": 1634252407947,
+            "name": "/Users/rich/typescript-express-starter/src/logs/debug/2021-10-15.log",
+            "hash": "36037207b33ceac24f2f02a30014e33a"
+        },
+        {
+            "date": 1634431902856,
+            "name": "/Users/rich/typescript-express-starter/src/logs/debug/2021-10-17.log",
+            "hash": "b8912386bffc4ef82a485d53ab9ad01c"
+        },
+        {
+            "date": 1634516613694,
+            "name": "/Users/rich/typescript-express-starter/src/logs/debug/2021-10-18.log",
+            "hash": "9aa84610e1d681e7b15103b18b008bde"
+        },
+        {
+            "date": 1634598894526,
+            "name": "/Users/rich/typescript-express-starter/src/logs/debug/2021-10-19.log",
+            "hash": "4ecb8ceb80a0dc7979ac1c90098245e6"
+        },
+        {
+            "date": 1634684425302,
+            "name": "/Users/rich/typescript-express-starter/src/logs/debug/2021-10-20.log",
+            "hash": "6c8609b617d83f2f18bb1f51abbd99a3"
+        },
+        {
+            "date": 1634770851876,
+            "name": "/Users/rich/typescript-express-starter/src/logs/debug/2021-10-21.log",
+            "hash": "2bafff63966d23c39852d5cbca7fe350"
+        },
+        {
+            "date": 1634859250175,
+            "name": "/Users/rich/typescript-express-starter/src/logs/debug/2021-10-22.log",
+            "hash": "299079661a4985c505ba448ae99e45a6"
+        },
+        {
+            "date": 1634943773313,
+            "name": "/Users/rich/typescript-express-starter/src/logs/debug/2021-10-23.log",
+            "hash": "cf051b7cb973db5f7e0e5f12b269eb0f"
+        },
+        {
+            "date": 1635087782477,
+            "name": "/Users/rich/typescript-express-starter/src/logs/debug/2021-10-24.log",
+            "hash": "bc5cde8d89da7ad99775570259d9c048"
+        },
+        {
+            "date": 1635158302978,
+            "name": "/Users/rich/typescript-express-starter/src/logs/debug/2021-10-25.log",
+            "hash": "bcafed157ed0a8bcaa39994f8f8e21f7"
+        },
+        {
+            "date": 1635202820120,
+            "name": "/Users/rich/typescript-express-starter/src/logs/debug/2021-10-26.log",
+            "hash": "d68da3bacc38f604af033802db2d1af4"
+        },
+        {
+            "date": 1635289622485,
+            "name": "/Users/rich/typescript-express-starter/src/logs/debug/2021-10-27.log",
+            "hash": "6a1ae6fff73dc18c73e51290fae3ac19"
+        },
+        {
+            "date": 1635439516281,
+            "name": "/Users/rich/typescript-express-starter/src/logs/debug/2021-10-28.log",
+            "hash": "d1e19ad496517bc4aa50ec6fab7f38f2"
+        },
+        {
+            "date": 1635723930437,
+            "name": "/Users/rich/typescript-express-starter/src/logs/debug/2021-10-31.log",
+            "hash": "9767239162dc6a2bd9656ed64f58c14a"
+        },
+        {
+            "date": 1635724980254,
+            "name": "/Users/rich/typescript-express-starter/src/logs/debug/2021-11-01.log",
+            "hash": "42a5d6315fce1679da7e35a2c4b993fb"
+        },
+        {
+            "date": 1637442913327,
+            "name": "/Users/rich/typescript-express-starter/src/logs/debug/2021-11-20.log",
+            "hash": "99e9f8738600b8e03231640106519b0e"
+        }
+    ]
+}

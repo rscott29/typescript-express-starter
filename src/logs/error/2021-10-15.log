@@ -1,0 +1,42 @@
+2021-10-15 00:47:45 error: [POST] /login >> StatusCode:: 400, Message:: property username should not exist, email must be an email
+2021-10-15 00:47:52 error: [POST] /login >> StatusCode:: 400, Message:: property username should not exist, email must be an email
+2021-10-15 00:48:41 error: [POST] /login >> StatusCode:: 400, Message:: email must be an email
+2021-10-15 01:29:07 error: [POST] /logout >> StatusCode:: 401, Message:: Wrong authentication token
+2021-10-15 01:34:35 error: [POST] /logout >> StatusCode:: 401, Message:: Wrong authentication token
+2021-10-15 01:34:51 error: [POST] /logout >> StatusCode:: 401, Message:: Wrong authentication token
+2021-10-15 01:35:10 error: [POST] /logout >> StatusCode:: 401, Message:: Wrong authentication token
+2021-10-15 01:35:17 error: [POST] /login >> StatusCode:: 400, Message:: email must be an email, password must be a string
+2021-10-15 01:35:36 error: [POST] /logou >> StatusCode:: 400, Message:: Cannot read properties of null (reading '1')
+2021-10-15 01:35:40 error: [POST] /logout >> StatusCode:: 400, Message:: Cannot read properties of null (reading '1')
+2021-10-15 01:36:01 error: [POST] /logout >> StatusCode:: 401, Message:: Wrong authentication token
+2021-10-15 06:00:05 error: [POST] /logout >> StatusCode:: 401, Message:: Wrong authentication token
+2021-10-15 15:35:41 error: [POST] /users >> StatusCode:: 409, Message:: You're email example@gmail.com already exists
+2021-10-15 15:36:00 error: [POST] /users >> StatusCode:: 409, Message:: You're email example@gmail.com already exists
+2021-10-15 15:36:00 error: [PUT] /users/1 >> StatusCode:: 500, Message:: 
+Invalid `prisma.user.update()` invocation:
+
+
+  Unique constraint failed on the constraint: `email_unique`
+2021-10-15 15:36:32 error: [POST] /users >> StatusCode:: 409, Message:: You're email example@gmail.com already exists
+2021-10-15 15:36:32 error: [PUT] /users/1 >> StatusCode:: 500, Message:: 
+Invalid `prisma.user.update()` invocation:
+
+
+  Unique constraint failed on the constraint: `email_unique`
+2021-10-15 15:36:53 error: [POST] /users >> StatusCode:: 409, Message:: You're email example@gmail.com already exists
+2021-10-15 15:37:45 error: [POST] /users >> StatusCode:: 409, Message:: You're email example@gmail.com already exists
+2021-10-15 15:38:45 error: [GET] /users/1 >> StatusCode:: 409, Message:: You're not user
+2021-10-15 15:38:45 error: [POST] /users >> StatusCode:: 409, Message:: You're email example@gmail.com already exists
+2021-10-15 15:38:45 error: [PUT] /users/1 >> StatusCode:: 409, Message:: You're not user
+2021-10-15 15:38:45 error: [DELETE] /users/1 >> StatusCode:: 409, Message:: You're not user
+2021-10-15 15:46:12 error: [GET] /users >> StatusCode:: 401, Message:: Wrong authentication token
+2021-10-15 15:46:21 error: [POST] /logout >> StatusCode:: 401, Message:: Wrong authentication token
+2021-10-15 15:46:23 error: [POST] /login >> StatusCode:: 409, Message:: the email address r.k.scott@outlook.com was not found
+2021-10-15 15:46:37 error: [POST] /login >> StatusCode:: 409, Message:: the email address r.k.scott@outlook.com was not found
+2021-10-15 17:33:49 error: [POST] /logout >> StatusCode:: 401, Message:: Wrong authentication token
+2021-10-15 17:33:52 error: [POST] /login >> StatusCode:: 409, Message:: the email address r.k.scott@outlook.com was not found
+2021-10-15 17:34:20 error: [POST] /login >> StatusCode:: 409, Message:: the email address r.k.scott@outlook.com was not found
+2021-10-15 17:34:24 error: [POST] /logout >> StatusCode:: 401, Message:: Wrong authentication token
+2021-10-15 17:34:40 error: [POST] /login >> StatusCode:: 409, Message:: the email address r.k.scott@outlook.com was not found
+2021-10-15 17:36:57 error: [POST] /login >> StatusCode:: 409, Message:: Your password does not match
+2021-10-15 17:38:34 error: [GET] /users >> StatusCode:: 401, Message:: Wrong authentication token

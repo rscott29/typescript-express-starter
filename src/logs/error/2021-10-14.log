@@ -1,0 +1,337 @@
+2021-10-14 21:21:52 error: [POST] /signup >> StatusCode:: 400, Message:: property message should not exist, email must be an email, password must be a string
+2021-10-14 21:22:28 error: [POST] /signup >> StatusCode:: 500, Message:: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+  Can't reach database server at `localhost`:`3306`
+
+Please make sure your database server is running at `localhost`:`3306`.
+2021-10-14 21:43:20 error: [POST] /signup >> StatusCode:: 500, Message:: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+  The table `User` does not exist in the current database.
+2021-10-14 23:18:40 error: uncaughtException: https is not defined
+ReferenceError: https is not defined
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:35:5)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at main (/Users/rich/typescript-express-starter/node_modules/ts-node/src/bin.ts:331:12)
+2021-10-14 23:18:49 error: uncaughtException: https is not defined
+ReferenceError: https is not defined
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:35:5)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at main (/Users/rich/typescript-express-starter/node_modules/ts-node/src/bin.ts:331:12)
+2021-10-14 23:30:22 error: uncaughtException: ENOENT: no such file or directory, open './ssl/privatekey.pem'
+Error: ENOENT: no such file or directory, open './ssl/privatekey.pem'
+    at Object.openSync (node:fs:585:3)
+    at readFileSync (node:fs:453:35)
+    at App.getSSLOptions (/Users/rich/typescript-express-starter/src/app.ts:51:24)
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:37:29)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+2021-10-14 23:30:56 error: uncaughtException: ENOENT: no such file or directory, open './ssl/privatekey.pem'
+Error: ENOENT: no such file or directory, open './ssl/privatekey.pem'
+    at Object.openSync (node:fs:585:3)
+    at readFileSync (node:fs:453:35)
+    at App.getSSLOptions (/Users/rich/typescript-express-starter/src/app.ts:51:24)
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:37:29)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+2021-10-14 23:31:15 error: uncaughtException: ENOENT: no such file or directory, open './ssl/privatekey.pem'
+Error: ENOENT: no such file or directory, open './ssl/privatekey.pem'
+    at Object.openSync (node:fs:585:3)
+    at readFileSync (node:fs:453:35)
+    at App.getSSLOptions (/Users/rich/typescript-express-starter/src/app.ts:51:24)
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:37:29)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+2021-10-14 23:32:05 error: uncaughtException: this.getSSLOptions is not a function
+TypeError: this.getSSLOptions is not a function
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:37:29)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at main (/Users/rich/typescript-express-starter/node_modules/ts-node/src/bin.ts:331:12)
+2021-10-14 23:32:56 error: uncaughtException: ENOENT: no such file or directory, open './ssl/privatekey.pem'
+Error: ENOENT: no such file or directory, open './ssl/privatekey.pem'
+    at Object.openSync (node:fs:585:3)
+    at readFileSync (node:fs:453:35)
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:38:24)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2021-10-14 23:33:15 error: uncaughtException: ENOENT: no such file or directory, open './ssl/privatekey.pem'
+Error: ENOENT: no such file or directory, open './ssl/privatekey.pem'
+    at Object.openSync (node:fs:585:3)
+    at readFileSync (node:fs:453:35)
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:38:24)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2021-10-14 23:33:29 error: uncaughtException: ENOENT: no such file or directory, open './ssl/privatekey.pem'
+Error: ENOENT: no such file or directory, open './ssl/privatekey.pem'
+    at Object.openSync (node:fs:585:3)
+    at readFileSync (node:fs:453:35)
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:38:24)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2021-10-14 23:33:45 error: uncaughtException: ENOENT: no such file or directory, open './ssl/privatekey.pem'
+Error: ENOENT: no such file or directory, open './ssl/privatekey.pem'
+    at Object.openSync (node:fs:585:3)
+    at readFileSync (node:fs:453:35)
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:38:24)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2021-10-14 23:34:53 error: uncaughtException: ENOENT: no such file or directory, open './ssl/privatekey.pem'
+Error: ENOENT: no such file or directory, open './ssl/privatekey.pem'
+    at Object.openSync (node:fs:585:3)
+    at readFileSync (node:fs:453:35)
+    at App.getSSLOptions (/Users/rich/typescript-express-starter/src/app.ts:51:24)
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:37:29)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+2021-10-14 23:36:28 error: uncaughtException: fs is not defined
+ReferenceError: fs is not defined
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:37:17)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:79:12)
+    at main (/Users/rich/typescript-express-starter/node_modules/ts-node/src/bin.ts:331:12)
+2021-10-14 23:36:36 error: uncaughtException: ENOENT: no such file or directory, open 'c:\key-rsa.pem'
+Error: ENOENT: no such file or directory, open 'c:\key-rsa.pem'
+    at Object.openSync (node:fs:585:3)
+    at Object.readFileSync (node:fs:453:35)
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:38:20)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2021-10-14 23:36:49 error: uncaughtException: ENOENT: no such file or directory, open 'c:\key-rsa.pem'
+Error: ENOENT: no such file or directory, open 'c:\key-rsa.pem'
+    at Object.openSync (node:fs:585:3)
+    at Object.readFileSync (node:fs:453:35)
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:38:20)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2021-10-14 23:37:01 error: uncaughtException: ENOENT: no such file or directory, open 'c:\key-rsa.pem'
+Error: ENOENT: no such file or directory, open 'c:\key-rsa.pem'
+    at Object.openSync (node:fs:585:3)
+    at Object.readFileSync (node:fs:453:35)
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:38:20)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2021-10-14 23:37:16 error: uncaughtException: ENOENT: no such file or directory, open 'c:\key-rsa.pem'
+Error: ENOENT: no such file or directory, open 'c:\key-rsa.pem'
+    at Object.openSync (node:fs:585:3)
+    at Object.readFileSync (node:fs:453:35)
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:38:20)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2021-10-14 23:37:23 error: uncaughtException: ENOENT: no such file or directory, open 'c:\key-rsa.pem'
+Error: ENOENT: no such file or directory, open 'c:\key-rsa.pem'
+    at Object.openSync (node:fs:585:3)
+    at Object.readFileSync (node:fs:453:35)
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:38:20)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2021-10-14 23:38:38 error: uncaughtException: EISDIR: illegal operation on a directory, read
+Error: EISDIR: illegal operation on a directory, read
+    at Object.readSync (node:fs:723:3)
+    at tryReadSync (node:fs:433:20)
+    at Object.readFileSync (node:fs:479:19)
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:38:20)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+2021-10-14 23:38:45 error: uncaughtException: ENOENT: no such file or directory, open './ssl/'
+Error: ENOENT: no such file or directory, open './ssl/'
+    at Object.openSync (node:fs:585:3)
+    at Object.readFileSync (node:fs:453:35)
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:38:20)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2021-10-14 23:38:59 error: uncaughtException: ENOENT: no such file or directory, open './ssl/key.pem'
+Error: ENOENT: no such file or directory, open './ssl/key.pem'
+    at Object.openSync (node:fs:585:3)
+    at Object.readFileSync (node:fs:453:35)
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:38:20)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2021-10-14 23:45:45 error: uncaughtException: ENOENT: no such file or directory, open './ssl/selfsig'
+Error: ENOENT: no such file or directory, open './ssl/selfsig'
+    at Object.openSync (node:fs:585:3)
+    at Object.readFileSync (node:fs:453:35)
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:38:20)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2021-10-14 23:45:57 error: uncaughtException: ENOENT: no such file or directory, open './ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open './ssl/selfsigned.key'
+    at Object.openSync (node:fs:585:3)
+    at Object.readFileSync (node:fs:453:35)
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:38:20)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2021-10-14 23:46:07 error: uncaughtException: ENOENT: no such file or directory, open './ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open './ssl/selfsigned.key'
+    at Object.openSync (node:fs:585:3)
+    at Object.readFileSync (node:fs:453:35)
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:38:20)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2021-10-14 23:46:27 error: uncaughtException: ENOENT: no such file or directory, open 'ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open 'ssl/selfsigned.key'
+    at Object.openSync (node:fs:585:3)
+    at Object.readFileSync (node:fs:453:35)
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:38:20)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2021-10-14 23:46:30 error: uncaughtException: ENOENT: no such file or directory, open '/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/ssl/selfsigned.key'
+    at Object.openSync (node:fs:585:3)
+    at Object.readFileSync (node:fs:453:35)
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:38:20)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2021-10-14 23:47:25 error: uncaughtException: ENOENT: no such file or directory, open '../ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '../ssl/selfsigned.key'
+    at Object.openSync (node:fs:585:3)
+    at Object.readFileSync (node:fs:453:35)
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:38:20)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2021-10-14 23:48:37 error: uncaughtException: ENOENT: no such file or directory, open '../ssl/selfsigned.pem'
+Error: ENOENT: no such file or directory, open '../ssl/selfsigned.pem'
+    at Object.openSync (node:fs:585:3)
+    at Object.readFileSync (node:fs:453:35)
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:39:21)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)

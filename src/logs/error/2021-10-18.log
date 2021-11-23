@@ -1,0 +1,92 @@
+2021-10-18 22:08:15 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1319:16)
+    at listenInCluster (node:net:1367:12)
+    at Server.listen (node:net:1454:7)
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:40:49)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+2021-10-18 22:09:05 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1319:16)
+    at listenInCluster (node:net:1367:12)
+    at Server.listen (node:net:1454:7)
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:40:49)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+2021-10-18 22:16:16 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1319:16)
+    at listenInCluster (node:net:1367:12)
+    at Server.listen (node:net:1454:7)
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:40:49)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+2021-10-18 21:16:33 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-18 22:17:42 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1319:16)
+    at listenInCluster (node:net:1367:12)
+    at Server.listen (node:net:1454:7)
+    at App.listen (/Users/rich/typescript-express-starter/src/app.ts:40:49)
+    at Object.<anonymous> (/Users/rich/typescript-express-starter/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/rich/typescript-express-starter/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+2021-10-18 21:19:51 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-18 22:21:13 error: [POST] /login >> StatusCode:: 500, Message:: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+  The table `User` does not exist in the current database.
+2021-10-18 22:30:17 error: [POST] /login >> StatusCode:: 409, Message:: the email address example@gmail.com was not found
+2021-10-18 22:33:52 error: [POST] /login >> StatusCode:: 409, Message:: the email address test@email.com was not found
+2021-10-18 22:37:32 error: [POST] /login >> StatusCode:: 409, Message:: the email address test@email.com was not found
+2021-10-18 23:15:08 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)

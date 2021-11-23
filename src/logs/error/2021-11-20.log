@@ -1,0 +1,38 @@
+2021-11-20 21:16:39 error: [POST] /login >> StatusCode:: 500, Message:: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+  Can't reach database server at `localhost`:`3306`
+
+Please make sure your database server is running at `localhost`:`3306`.
+2021-11-20 21:17:58 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-11-20 21:40:44 error: [POST] /login >> StatusCode:: 500, Message:: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+  Can't reach database server at `localhost`:`3306`
+
+Please make sure your database server is running at `localhost`:`3306`.
+2021-11-20 21:42:54 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)

@@ -1,0 +1,53 @@
+2021-10-28 17:45:16 info: [0mOPTIONS /login [32m204[0m 2.769 ms - 0[0m
+2021-10-28 17:45:16 error: [POST] /login >> StatusCode:: 409, Message:: the email address foo@lol.dom was not found
+2021-10-28 17:45:16 info: [0mPOST /login [33m409[0m 86.971 ms - 57[0m
+2021-10-28 17:45:26 info: =================================
+2021-10-28 17:45:26 info: ======= ENV: development =======
+2021-10-28 17:45:26 info: 🚀 App listening on the port 3000
+2021-10-28 17:45:26 info: =================================
+2021-10-28 18:22:44 info: [0mOPTIONS /login [32m204[0m 1.868 ms - 0[0m
+2021-10-28 18:22:44 error: [POST] /login >> StatusCode:: 409, Message:: the email address r.kscott@outlook.com was not found
+2021-10-28 18:22:44 info: [0mPOST /login [33m409[0m 178.814 ms - 66[0m
+2021-10-28 18:23:05 info: [0mOPTIONS /login [32m204[0m 0.182 ms - 0[0m
+2021-10-28 18:23:05 info: [0mPOST /login [32m200[0m 105.446 ms - 103[0m
+2021-10-28 19:53:36 info: [0mOPTIONS /login [32m204[0m 1.099 ms - 0[0m
+2021-10-28 19:53:36 info: [0mPOST /login [32m200[0m 130.935 ms - 103[0m
+2021-10-28 19:54:57 info: [0mOPTIONS /login [32m204[0m 0.297 ms - 0[0m
+2021-10-28 19:54:57 error: [POST] /login >> StatusCode:: 409, Message:: the email address r.kscott@outlook.com was not found
+2021-10-28 19:54:57 info: [0mPOST /login [33m409[0m 13.452 ms - 66[0m
+2021-10-28 19:55:14 info: [0mOPTIONS /login [32m204[0m 3.223 ms - 0[0m
+2021-10-28 19:55:14 info: [0mPOST /login [32m200[0m 95.693 ms - 103[0m
+2021-10-28 19:59:44 info: [0mOPTIONS /login [32m204[0m 0.164 ms - 0[0m
+2021-10-28 19:59:44 info: [0mPOST /login [32m200[0m 99.208 ms - 103[0m
+2021-10-28 20:00:04 info: [0mOPTIONS /login [32m204[0m 0.208 ms - 0[0m
+2021-10-28 20:00:04 info: [0mPOST /login [32m200[0m 102.670 ms - 103[0m
+2021-10-28 20:00:39 info: [0mOPTIONS /login [32m204[0m 0.182 ms - 0[0m
+2021-10-28 20:00:39 info: [0mPOST /login [32m200[0m 98.326 ms - 103[0m
+2021-10-28 20:01:37 info: [0mOPTIONS /login [32m204[0m 0.327 ms - 0[0m
+2021-10-28 20:01:37 info: [0mPOST /login [32m200[0m 105.609 ms - 103[0m
+2021-10-28 20:02:57 info: [0mOPTIONS /login [32m204[0m 0.144 ms - 0[0m
+2021-10-28 20:02:57 info: [0mPOST /login [32m200[0m 100.791 ms - 103[0m
+2021-10-28 20:13:59 info: [0mOPTIONS /login [32m204[0m 0.244 ms - 0[0m
+2021-10-28 20:13:59 info: [0mPOST /login [32m200[0m 119.352 ms - 103[0m
+2021-10-28 20:16:15 info: [0mOPTIONS /login [32m204[0m 0.171 ms - 0[0m
+2021-10-28 20:16:15 info: [0mPOST /login [32m200[0m 105.846 ms - 103[0m
+2021-10-28 20:19:25 info: [0mOPTIONS /login [32m204[0m 0.541 ms - 0[0m
+2021-10-28 20:19:25 info: [0mPOST /login [32m200[0m 102.471 ms - 103[0m
+2021-10-28 20:19:58 info: [0mOPTIONS /login [32m204[0m 0.278 ms - 0[0m
+2021-10-28 20:19:58 info: [0mPOST /login [32m200[0m 101.350 ms - 103[0m
+2021-10-28 20:20:43 info: [0mOPTIONS /login [32m204[0m 2.374 ms - 0[0m
+2021-10-28 20:20:43 info: [0mPOST /login [32m200[0m 136.232 ms - 103[0m
+2021-10-28 20:21:07 info: [0mOPTIONS /login [32m204[0m 0.224 ms - 0[0m
+2021-10-28 20:21:07 info: [0mPOST /login [32m200[0m 99.943 ms - 103[0m
+2021-10-28 20:22:03 info: [0mOPTIONS /login [32m204[0m 0.149 ms - 0[0m
+2021-10-28 20:22:03 info: [0mPOST /login [32m200[0m 102.156 ms - 103[0m
+2021-10-28 20:23:06 info: [0mOPTIONS /login [32m204[0m 0.165 ms - 0[0m
+2021-10-28 20:23:06 info: [0mPOST /login [32m200[0m 104.046 ms - 103[0m
+2021-10-28 20:24:09 info: [0mOPTIONS /login [32m204[0m 0.179 ms - 0[0m
+2021-10-28 20:24:09 info: [0mPOST /login [32m200[0m 101.552 ms - 103[0m
+2021-10-28 20:24:30 info: [0mOPTIONS /login [32m204[0m 1.890 ms - 0[0m
+2021-10-28 20:24:30 info: [0mPOST /login [32m200[0m 102.877 ms - 103[0m
+2021-10-28 20:25:04 info: [0mOPTIONS /login [32m204[0m 0.152 ms - 0[0m
+2021-10-28 20:25:04 info: [0mPOST /login [32m200[0m 101.824 ms - 103[0m
+2021-10-28 20:25:28 info: [0mOPTIONS /login [32m204[0m 0.131 ms - 0[0m
+2021-10-28 20:25:28 info: [0mPOST /login [32m200[0m 78.164 ms - 103[0m

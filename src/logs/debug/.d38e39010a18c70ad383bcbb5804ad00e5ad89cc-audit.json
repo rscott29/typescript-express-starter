@@ -1,0 +1,74 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/app/src/logs/debug/.d38e39010a18c70ad383bcbb5804ad00e5ad89cc-audit.json",
+    "files": [
+        {
+            "date": 1634591770363,
+            "name": "/app/src/logs/debug/2021-10-18.log",
+            "hash": "0a75d52d1dc851ca9690d6ffc57f3a4e"
+        },
+        {
+            "date": 1634684433854,
+            "name": "/app/src/logs/debug/2021-10-19.log",
+            "hash": "ca36e401174bad09db0e0b01907ee686"
+        },
+        {
+            "date": 1634691289671,
+            "name": "/app/src/logs/debug/2021-10-20.log",
+            "hash": "3f17a0e656a81f4c240d8c9f708da52a"
+        },
+        {
+            "date": 1634859258577,
+            "name": "/app/src/logs/debug/2021-10-21.log",
+            "hash": "4f10e5480814a441fd05bb8702c342d5"
+        },
+        {
+            "date": 1634938966645,
+            "name": "/app/src/logs/debug/2021-10-22.log",
+            "hash": "41c89996d11069469c24e113e8c17486"
+        },
+        {
+            "date": 1635087788515,
+            "name": "/app/src/logs/debug/2021-10-24.log",
+            "hash": "8e9049e31ca4317082c5ff683471a15b"
+        },
+        {
+            "date": 1635158309106,
+            "name": "/app/src/logs/debug/2021-10-25.log",
+            "hash": "def8810e76c742b9876a50b5afd43016"
+        },
+        {
+            "date": 1635271619380,
+            "name": "/app/src/logs/debug/2021-10-26.log",
+            "hash": "e5601a25e59c200c613a1b76899f9c73"
+        },
+        {
+            "date": 1635292963278,
+            "name": "/app/src/logs/debug/2021-10-27.log",
+            "hash": "54b159eeb6ca5dad29a4b553e74cbc3d"
+        },
+        {
+            "date": 1635439522162,
+            "name": "/app/src/logs/debug/2021-10-28.log",
+            "hash": "9b669d69a2d3263fa36ca41c4936c40e"
+        },
+        {
+            "date": 1635723935686,
+            "name": "/app/src/logs/debug/2021-10-31.log",
+            "hash": "11acc021ebdfb2978fbdb76030646457"
+        },
+        {
+            "date": 1635724988283,
+            "name": "/app/src/logs/debug/2021-11-01.log",
+            "hash": "43bb0aa9e8f1139c68e797d126260403"
+        },
+        {
+            "date": 1637443057369,
+            "name": "/app/src/logs/debug/2021-11-20.log",
+            "hash": "2f2dccfafa1c0769b4db402785aa301d"
+        }
+    ]
+}

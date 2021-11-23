@@ -1,0 +1,15 @@
+2021-10-28 17:45:16 error: [POST] /login >> StatusCode:: 409, Message:: the email address foo@lol.dom was not found
+2021-10-28 16:45:35 error: uncaughtException: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+Error: ENOENT: no such file or directory, open '/Users/rich/typescript-express-starter/src/ssl/selfsigned.key'
+    at Object.openSync (fs.js:476:3)
+    at Object.readFileSync (fs.js:377:35)
+    at App.listen (/app/src/app.ts:38:20)
+    at Object.<anonymous> (/app/src/server.ts:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1365:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1368:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+2021-10-28 18:22:44 error: [POST] /login >> StatusCode:: 409, Message:: the email address r.kscott@outlook.com was not found
+2021-10-28 19:54:57 error: [POST] /login >> StatusCode:: 409, Message:: the email address r.kscott@outlook.com was not found
